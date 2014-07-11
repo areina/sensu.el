@@ -1,7 +1,5 @@
 # sensu.el [![Build Status](https://api.travis-ci.org/areina/sensu.el.png?branch=master)](http://travis-ci.org/areina/sensu.el)
 
-## About
-
 Manage [Sensu](http://sensuapp.org/) from Emacs.
 The code to manage and work with events is heavily inspired by the great [prodigy.el](http://github.com/rejeep/prodigy.el) project.
 
@@ -24,5 +22,4 @@ You need to set some values to work with your sensu instance:
 
 ## Usage
 
-`m-x sensu`
-
+`M-x sensu`
