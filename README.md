@@ -5,8 +5,10 @@ The code to manage and work with events is heavily inspired by the great [prodig
 
 ## Features
 
-- List current events.
-- Resolve one or multiple events.
+- [x] List current events.
+- [x] Resolve one or multiple events.
+- [ ] List clients.
+- [ ] Un/silence one or multiple clients.
 
 ## Installation
 
